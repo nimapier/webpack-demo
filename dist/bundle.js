@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("asd")})();这是加在最后的代码这是加在最后的代码
