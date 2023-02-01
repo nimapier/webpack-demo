@@ -11,7 +11,7 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "program": "${workspaceFolder}/myPlugin.js",
+      "program": "${workspaceFolder}/myLoader.js",
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "start"],
     }
